@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+.main-container {
+  display: flex;
+  flex-direction: row;
+}
+.solidity-editor {
+  width: 50%;
+}
+.michelson-editor {
+  width: 50%;
+}
